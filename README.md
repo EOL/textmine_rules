@@ -5,7 +5,9 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 1. <a href="#for-all-resources">For all resources</a>
 2. <a href="#for-specific-resources">For specific resource(s)</a>
 
-## For all resources <a name="for-all-resources"></a>
+<a name="for-all-resources"></a>
+
+## For all resources
 
 #### Remove across all resources:
 
@@ -44,7 +46,9 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 </tr>
 </table>
 
-## For specific resource(s) <a name="for-specific-resources"></a>
+<a name="for-specific-resources"></a>
+
+## For specific resource(s)
 
 #### Wikipedia (inferred records)
 
