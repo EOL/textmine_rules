@@ -15,6 +15,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 <tr><td>https://github.com/EOL/textmine_rules/blob/main/terms_to_remove.txt</td></tr>
 <tr><td>https://github.com/EOL/textmine_rules/blob/main/geo_synonyms.txt</td></tr>
 </table>
+
 #### Delete MoF with these labels:
 
 <table>
