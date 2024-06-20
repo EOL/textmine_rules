@@ -57,6 +57,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
     <td>https://github.com/EOL/textmine_rules/blob/main/Wikipedia_excluded_ranks.tsv</td>
 </tr>
 </table>
+
 #### Wikipedia (inferred records) AND TreatmentBank
 
 <table>
