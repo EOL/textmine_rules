@@ -373,3 +373,5 @@ http://purl.obolibrary.org/obo/ENVO_00000077
 http://purl.obolibrary.org/obo/ENVO_01000760
 http://purl.obolibrary.org/obo/ENVO_00000474
 http://purl.obolibrary.org/obo/ENVO_00000016
+
+http://purl.obolibrary.org/obo/ENVO_00000040
