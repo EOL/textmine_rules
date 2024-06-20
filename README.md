@@ -103,6 +103,10 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 <table>
 <tr>
     <td>Exclude descendants of: “saline water”</td>
-    <td>https://github.com/EOL/textmine_rules/blob/main/AmphibiaWeb/descendants_of_salt_water.tsv</td>
+    <td>
+    
+    [descendants of salt water](https://github.com/EOL/textmine_rules/blob/main/AmphibiaWeb/descendants_of_salt_water.tsv)
+    
+    </td>
 </tr>
 </table>
