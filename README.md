@@ -1,6 +1,6 @@
 # Textmine rules
 
-Filters, remapped lists, subset labels, etc. used in textmining connector.
+Filters, remapped lists, subset labels, etc. used in textmining connector using the [Pensoft Annotator](https://blog.pensoft.net/2020/10/21/pensoft-annotator-a-tool-for-text-annotation-with-ontologies/).
 
 1. <a href="#for-all-resources">For all resources</a>
 2. <a href="#for-specific-resources">For specific resource(s)</a>
