@@ -22,6 +22,9 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 <tr>
     <td>https://github.com/EOL/textmine_rules/blob/main/del_MoF_with_these_labels.tsv</td>
 </tr>
+<tr>
+    <td>https://github.com/EOL/textmine_rules/blob/main/blacklist_labels.txt</td>
+</tr>
 </table>
 
 #### Patterns for all textmined resources:
@@ -69,13 +72,6 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 <tr>
     <td>Set measurementType to:</td>
     <td>http://purl.obolibrary.org/obo/ENVO_09200008</td>
-</tr>
-</table>
-
-<table>
-<tr>
-    <td>Exclude these labels:</td>
-    <td>https://github.com/EOL/textmine_rules/blob/main/blacklist_labels.txt</td>
 </tr>
 </table>
 
