@@ -5,7 +5,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 1. <a href="#for-all-resources">For all resources</a>
 2. <a href="#for-specific-resources">For specific resource(s)</a>
 
-<a name="for-all-resources"></a>
+<a name="for-all-resources">
 
 ## For all resources
 
@@ -15,7 +15,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 <tr><td>https://github.com/EOL/textmine_rules/blob/main/terms_to_remove.txt</td></tr>
 <tr><td>https://github.com/EOL/textmine_rules/blob/main/geo_synonyms.txt</td></tr>
 </table>
-
+</a>
 #### Delete MoF with these labels:
 
 <table>
@@ -46,7 +46,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
 </tr>
 </table>
 
-<a name="for-specific-resources"></a>
+<a name="for-specific-resources">
 
 ## For specific resource(s)
 
@@ -58,7 +58,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector.
     <td>https://github.com/EOL/textmine_rules/blob/main/Wikipedia_excluded_ranks.tsv</td>
 </tr>
 </table>
-
+</a>
 #### Wikipedia (inferred records) AND TreatmentBank
 
 <table>
