@@ -1,4 +1,4 @@
-# Textmine rules
+# Textmining rules
 
 Filters, remapped lists, subset labels, etc. used in textmining connector using the [Pensoft Annotator](https://blog.pensoft.net/2020/10/21/pensoft-annotator-a-tool-for-text-annotation-with-ontologies/).
 
