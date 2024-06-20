@@ -78,10 +78,12 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 #### WoRMS
 
 <table>
+<!---
 <tr>
     <td>Delete URIs</td>
     <td>https://github.com/EOL/textmine_rules/blob/main/WoRMS_only_delete_URIs.tsv</td>
 </tr>
+--->
 <tr>
     <td>Re-mapped terms:</td>
     <td>https://github.com/EOL/textmine_rules/blob/main/Terms_remapped/WoRMS_only_terms_remapped.tsv</td>
