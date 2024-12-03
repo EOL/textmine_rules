@@ -1,4 +1,5 @@
 t.uri	pref.uri
+http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
 http://www.owl-ontologies.com/unnamed.owl#Wingspan	http://www.wikidata.org/entity/Q245097
 https://www.wikidata.org/wiki/Q25322	https://www.wikidata.org/entity/Q25322
 http://www.wikidata.org/entity/Q16	http://www.geonames.org/6251999
@@ -12,7 +13,6 @@ http://www.wikidata.org/entity/Q836	http://www.geonames.org/1327865
 http://www.wikidata.org/entity/Q25227	https://www.wikidata.org/entity/Q25227
 http://www.wikidata.org/entity/Q760	http://www.geonames.org/3576468
 http://www.wikidata.org/entity/Q25279	http://www.geonames.org/7626836
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
 http://purl.obolibrary.org/obo/ENVO_00000109	http://purl.obolibrary.org/obo/ENVO_01000175
 http://purl.obolibrary.org/obo/ENVO_00000261	http://purl.obolibrary.org/obo/ENVO_01000178
 http://purl.obolibrary.org/obo/ENVO_00000020	http://purl.obolibrary.org/obo/ENVO_01000252
@@ -29,7 +29,7 @@ http://purl.obolibrary.org/obo/ENVO_00002151	http://purl.obolibrary.org/obo/ENVO
 http://purl.obolibrary.org/obo/ENVO_01000238	http://purl.obolibrary.org/obo/ENVO_01000339
 http://purl.obolibrary.org/obo/ENVO_00002042	http://purl.obolibrary.org/obo/ENVO_00002030
 http://purl.obolibrary.org/obo/ENVO_00000112	http://purl.obolibrary.org/obo/ENVO_01000180
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://eol.org/schema/terms/forbHerb	http://purl.obolibrary.org/obo/FLOPO_0022142
 http://eol.org/schema/terms/graminoid	http://purl.obolibrary.org/obo/FLOPO_0900036
 http://eol.org/schema/terms/shrub	http://purl.obolibrary.org/obo/FLOPO_0900034
@@ -38,21 +38,21 @@ http://eol.org/schema/terms/vine	http://purl.obolibrary.org/obo/FLOPO_0900035
 http://eol.org/schema/terms/Oceanic	http://purl.obolibrary.org/obo/ENVO_00000447
 http://purl.obolibrary.org/obo/ENVO_01000321	http://purl.obolibrary.org/obo/ENVO_00000447
 http://www.owl-ontologies.com/unnamed.owl#MigratoryStatus	http://purl.obolibrary.org/obo/IDOMAL_0002084
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://marineregions.org/mrgid/36323	http://www.geonames.org/4030959
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://eol.org/schema/terms/FarEast	http://www.geonames.org/7729894
 http://www.wikidata.org/entity/Q158725	http://www.geonames.org/205253
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://eol.org/schema/terms/DispersalVector	http://eol.org/schema/terms/IsDispersalVectorFor
 http://eol.org/schema/terms/Oceanic	http://purl.obolibrary.org/obo/ENVO_00000447
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
+
 http://eol.org/schema/terms/SeawaterTemperature	http://eol.org/schema/terms/WaterTemperature
 http://eol.org/schema/terms/TrophicLevel	http://www.wikidata.org/entity/Q1053008
 http://eol.org/schema/terms/photoautotrophy	http://purl.obolibrary.org/obo/ECOCORE_00000130
 http://www.wikidata.org/entity/Q59099	https://www.wikidata.org/entity/Q59099
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://eol.org/schema/terms/freshwaterLake	http://purl.obolibrary.org/obo/ENVO_01000252
 http://eol.org/schema/terms/freshwaterPond	http://purl.obolibrary.org/obo/ENVO_00000033
 http://eol.org/schema/terms/freshwaterStream	http://purl.obolibrary.org/obo/ENVO_01000253
@@ -60,7 +60,7 @@ http://eol.org/schema/terms/lowlandFreshwaterRiver	http://purl.obolibrary.org/ob
 http://eol.org/schema/terms/openWater	http://purl.obolibrary.org/obo/ENVO_00002030
 http://eol.org/schema/terms/planktonicAlgae	https://www.wikidata.org/entity/Q184755
 http://eol.org/schema/terms/tapWater	http://purl.obolibrary.org/obo/ENVO_00003096
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://www.wikidata.org/entity/Q702	http://www.geonames.org/2081918
 http://marineregions.org/mrgid/4365	https://marineregions.org/mrgid/4365
 http://marineregions.org/mrgid/4334	http://www.marineregions.org/mrgid/4334
@@ -141,7 +141,7 @@ http://eol.org/schema/terms/lumberYes	http://eol.org/schema/terms/yes
 http://eol.org/schema/terms/fodderYes	http://eol.org/schema/terms/yes
 http://eol.org/schema/terms/pulpwoodYes	http://eol.org/schema/terms/yes
 http://eol.org/schema/terms/mangroves	http://purl.obolibrary.org/obo/ENVO_01000181
-http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+
 http://www.marineregions.org/gazetteer.php?p=details&id=mexico	http://www.geonames.org/3996063
 http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	http://www.geonames.org/1643084
 http://www.marineregions.org/gazetteer.php?p=details&id=united_states	http://www.geonames.org/6252001
