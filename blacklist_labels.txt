@@ -94,3 +94,76 @@ organic material
 moor
 harbor
 mon
+
+From: https://github.com/EOL/ContentImport/issues/21#issuecomment-2508734087
+clay
+ground
+dell
+gravel
+hill
+farm
+orchard
+woodland canopy
+cirque
+hedge
+maar
+dry soil
+scree
+canal
+vineyard
+beaver pond
+root nodule
+aerosol
+tea plantation
+bay
+volcanic soil
+red clay
+beach sand
+chalk soil
+rubber plantation
+coffee plantation
+drainage ditch
+rhizosphere
+seep
+microbial mat
+marine sediment
+sugar plantation
+boulder field
+sinkhole
+pasture soil
+sea sand
+mountain pass
+furniture
+marine snow
+garden soil
+igneous rock
+metamorphic rock
+stratovolcano
+cave wall
+volcanic rock
+paddy field
+dry lake
+flume
+agricultural soil
+drainage canal
+orchard soil
+beaver dam
+mushroom compost
+weapons test site
+banana plantation
+poultry litter
+cave entrance
+blowout
+coconut plantation
+sea cliff
+farm soil
+terminal moraine
+arable soil
+cinder cone
+human dwelling
+saline evaporation pond
+plunge pool
+roadside soil
+paddy field soil
+hanging valley
+rill
