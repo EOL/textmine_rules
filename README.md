@@ -36,6 +36,14 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 </tr>
 </table>
 
+#### Exclude trait and its descendants:
+
+<table>
+<tr>
+    <td>https://github.com/EOL/textmine_rules/blob/main/exclude_descendants.tsv</td>
+</tr>
+</table>
+
 #### Others:
 
 <table>
