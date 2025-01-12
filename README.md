@@ -36,7 +36,7 @@ Filters, remapped lists, subset labels, etc. used in textmining connector using 
 </tr>
 </table>
 
-#### Exclude trait and its descendants (inclusive):
+#### Exclude traits and its descendants (inclusive):
 
 <table>
 <tr>
