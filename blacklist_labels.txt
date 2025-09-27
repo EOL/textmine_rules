@@ -167,3 +167,11 @@ roadside soil
 paddy field soil
 hanging valley
 rill
+
+From: https://github.com/EOL/ContentImport/issues/36
+@jhammock @KatjaShulz added marine reef, valley, beach, and inlet to the uris to be removed. We had agreed on doing this earlier.
+
+marine reef
+valley
+beach
+inlet
